@@ -10,7 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLOW WORLD");
+            Console.WriteLine("HED");
         }
     }
 }
